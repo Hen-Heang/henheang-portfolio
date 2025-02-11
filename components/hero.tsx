@@ -18,10 +18,8 @@ const Hero = () => {
             </h1>
             <div className='py-8'>
               <p>
-                I have the perfect solution for your web development needs. By
-                adopting a modern stack, like MERN, and incorporating TypeScript
-                for enhanced type safety, we can create an exceptional web
-                application.
+                Now, I am a full-stack developer with 1 year of experience in web development. I am with frame work of java is
+                spring boot and front end is next js. I am also familiar with the database of postgresSql and mongodb.
               </p>
             </div>
             <div className='mt-4 flex flex-col items-center justify-center xl:flex-row xl:justify-start xl:space-x-8'>
